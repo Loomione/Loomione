@@ -19,10 +19,10 @@
                         Loving Life🌼♥️🥰
   </samp>
 </p> 
-
+<p align="center">
 [![Top Langs-Dark](https://github-readme-stats-git-master-chaoszhai.vercel.app/api/top-langs/?username=Loomione&count_private=true&langs_count=10&layout=compact&hide=CMake,Makefile,Batchfile,CSS,HTML&theme=dark#gh-dark-mode-only)](https://github.com/ChaosZhai/github-readme-stats#gh-dark-mode-only)
 [![Top Langs-Light](https://github-readme-stats-git-master-chaoszhai.vercel.app/api/top-langs/?username=Loomione&count_private=true&langs_count=10&layout=compact&hide=CMake,Makefile,Batchfile,CSS,HTML&theme=default#gh-light-mode-only)](https://github.com/ChaosZhai/github-readme-stats#gh-light-mode-only)
-
+</p> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Loomione/Loomione/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Loomione/Loomione/output/github-contribution-grid-snake.svg">
