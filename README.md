@@ -1,6 +1,24 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-### Hello welcome to my Github 👋
+<p align="center">
+  <br />
+  <br />
+  <samp>
+    I'm GuSJ :wave:
+    <br />
+    <br />
+    <a href="https://dev.to/iamirulofficial">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Amirul Islam's DEV Profile" height="30" width="30">
+</a>
+    <br />
+    <br />
+    Software Engineering !
+    <br><br>
+    * #DevCommunity * #100DaysOfCode * #100DaysOfMLCode * ML/DL/RL Enthusiasts * Flutter * ReactJs * MySql *
+                  <br> || Can code in c++, python, Java || <br>
+                        Loving Life🌼♥️🥰
+  </samp>
+</p> 
 
 [![Top Langs-Dark](https://github-readme-stats-git-master-chaoszhai.vercel.app/api/top-langs/?username=Loomione&count_private=true&langs_count=10&layout=compact&hide=CMake,Makefile,Batchfile,CSS,HTML&theme=dark#gh-dark-mode-only)](https://github.com/ChaosZhai/github-readme-stats#gh-dark-mode-only)
 [![Top Langs-Light](https://github-readme-stats-git-master-chaoszhai.vercel.app/api/top-langs/?username=Loomione&count_private=true&langs_count=10&layout=compact&hide=CMake,Makefile,Batchfile,CSS,HTML&theme=default#gh-light-mode-only)](https://github.com/ChaosZhai/github-readme-stats#gh-light-mode-only)
@@ -25,10 +43,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📊 **Weekly development breakdown**
-<!--START_SECTION:waka-->
-```text
-Python      4 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   35.69 
-HTML/CSS    2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   22.32 
-Javascript  1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.17 
-Dart        1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.61 
+
