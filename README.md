@@ -37,8 +37,5 @@ YAML          25 mins         ▓░░░░░░░░░░░░░░░�
 </picture>
 </div>
 
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Loomione&theme=react" />
-</div>
 
 
