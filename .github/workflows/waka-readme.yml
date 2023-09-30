@@ -22,4 +22,4 @@ jobs:
           SHOW_PROJECTS : "False"
           SHOW_TOTAL_CODE_TIME : "False"
           SHOW_TITLE : true
-          SHOW_DAYS_OF_WEEK : "False"
+          SHOW_DAYS_OF_WEEK : False
