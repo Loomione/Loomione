@@ -4,7 +4,7 @@
   <br />
   <br />
   <samp>
-    I'm GuSJ :wave:
+    I'm Loomione :wave:
     <br />
     <br />
     <a href="https://dev.to/iamirulofficial">
@@ -14,8 +14,8 @@
     <br />
     Software Engineering !
     <br><br>
-                  <br> || Can code in c++, python, Java || <br>
-                        Loving Life🌼♥️🥰
+                  <br> || Can code in c++, python, Matlab || <br>
+                             🌼♥️Welcome♥️🥰
   </samp>
 </p> 
 
