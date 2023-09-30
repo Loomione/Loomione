@@ -35,6 +35,9 @@ YAML          25 mins         ▓░░░░░░░░░░░░░░░�
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Loomione/Loomione/output/github-contribution-grid-snake.svg">
 </picture>
 
-[![Sunshine's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Loomione&theme=xcode)](https://github.com/Loomione)
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Loomione&theme=xcode" />
+</div>
+
 
 
