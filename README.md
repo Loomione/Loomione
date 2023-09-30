@@ -19,8 +19,20 @@
   </samp>
 </p> 
 
-[![Top Langs-Dark](https://github-readme-stats-git-master-chaoszhai.vercel.app/api/top-langs/?username=Loomione&count_private=true&langs_count=10&layout=compact&hide=CMake,Makefile,Batchfile,CSS,HTML&theme=dark#gh-dark-mode-only)](https://github.com/ChaosZhai/github-readme-stats#gh-dark-mode-only)
-[![Top Langs-Light](https://github-readme-stats-git-master-chaoszhai.vercel.app/api/top-langs/?username=Loomione&count_private=true&langs_count=10&layout=compact&hide=CMake,Makefile,Batchfile,CSS,HTML&theme=default#gh-light-mode-only)](https://github.com/ChaosZhai/github-readme-stats#gh-light-mode-only)
+-------
+
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+
+```txt
+Markdown      6 hrs 48 mins   ███████████░░░░░░░░░░░░░░   44.27 %
+C++           5 hrs 53 mins   █████████▓░░░░░░░░░░░░░░░   38.27 %
+C             1 hr 10 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
+TeX           41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
+YAML          25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+```
+
+<!--END_SECTION:waka-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Loomione/Loomione/output/github-contribution-grid-snake-dark.svg">
@@ -43,14 +55,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--START_SECTION:waka-->
-
-```txt
-Markdown      6 hrs 48 mins   ███████████░░░░░░░░░░░░░░   44.27 %
-C++           5 hrs 53 mins   █████████▓░░░░░░░░░░░░░░░   38.27 %
-C             1 hr 10 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
-TeX           41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
-YAML          25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
-```
-
-<!--END_SECTION:waka-->
