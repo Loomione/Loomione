@@ -19,7 +19,7 @@
     <br />
     <br />
     "Embrace the challenge, code your dreams, and commit to excellence."
-    <br><br>
+    <br>
                   <br> || Can code in c++, python, Matlab || <br>
                              🌼♥️Welcome♥️🥰
   </samp>
