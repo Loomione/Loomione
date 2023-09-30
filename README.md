@@ -13,7 +13,12 @@
     <br />
     <br />
     a software developer
+    <br />
+    <br />
     I love delving deep into the intricacies of computer systems to understand how they work and how to make them work better.
+    <br />
+    <br />
+    "Embrace the challenge, code your dreams, and commit to excellence."
     <br><br>
                   <br> || Can code in c++, python, Matlab || <br>
                              🌼♥️Welcome♥️🥰
