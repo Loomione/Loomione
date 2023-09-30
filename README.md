@@ -16,7 +16,6 @@
 
 -------
 
-📊 **This week I spend time on**
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
