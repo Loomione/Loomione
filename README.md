@@ -35,7 +35,6 @@ YAML          25 mins         ▓░░░░░░░░░░░░░░░�
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Loomione/Loomione/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" />
+[![Sunshine's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Loomione&theme=xcode)](https://github.com/sun0225SUN)
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
