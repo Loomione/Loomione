@@ -44,4 +44,13 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+
+```txt
+Markdown      6 hrs 48 mins   ███████████░░░░░░░░░░░░░░   44.27 %
+C++           5 hrs 53 mins   █████████▓░░░░░░░░░░░░░░░   38.27 %
+C             1 hr 10 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
+TeX           41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
+YAML          25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+```
+
 <!--END_SECTION:waka-->
