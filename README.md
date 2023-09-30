@@ -1,12 +1,9 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 <p align="center">
-  
+  <br />
   <samp>
     I'm Loomione :wave:
-    <a href="https://dev.to/iamirulofficial">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Amirul Islam's DEV Profile" height="20" width="20">
-</a>
     <br />
     I love delving deep into the intricacies of computer systems to understand how they work and how to make them work better
     <br />
