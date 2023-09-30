@@ -1,8 +1,6 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 <p align="center">
-  <br />
-  <br />
   <samp>
     I'm Loomione :wave:
     <a href="https://dev.to/iamirulofficial">
