@@ -16,6 +16,16 @@
 
 -------
 
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Loomione/Loomione/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Loomione/Loomione/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Loomione/Loomione/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+
+-------
+
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
@@ -62,13 +72,7 @@ Linux                    6 hrs 53 mins       ███████████�
  Last Updated on 30/09/2023 18:40:37 UTC
 <!--END_SECTION:waka-->
 -------
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Loomione/Loomione/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Loomione/Loomione/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Loomione/Loomione/output/github-contribution-grid-snake.svg">
-</picture>
-</div>
+
 
 
 
