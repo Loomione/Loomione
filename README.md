@@ -12,7 +12,8 @@
 </a>
     <br />
     <br />
-    Software Engineering !
+    a software developer
+    I love delving deep into the intricacies of computer systems to understand how they work and how to make them work better.
     <br><br>
                   <br> || Can code in c++, python, Matlab || <br>
                              🌼♥️Welcome♥️🥰
