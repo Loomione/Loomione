@@ -23,7 +23,7 @@
 [![Top Langs-Light](https://github-readme-stats-git-master-chaoszhai.vercel.app/api/top-langs/?username=Loomione&count_private=true&langs_count=10&layout=compact&hide=CMake,Makefile,Batchfile,CSS,HTML&theme=default#gh-light-mode-only)](https://github.com/ChaosZhai/github-readme-stats#gh-light-mode-only)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Loomione/Loomione/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Loomione/Loomione/output/github-snake.gif">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Loomione/Loomione/output/github-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Loomione/Loomione/output/github-snake.svg">
 </picture>
