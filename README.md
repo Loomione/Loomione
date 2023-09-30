@@ -39,6 +39,6 @@ YAML          25 mins         ▓░░░░░░░░░░░░░░░�
     <img src="https://activity-graph.herokuapp.com/graph?username=Loomione&theme=xcode" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Loomione)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Loomione)](https://github.com/Loomione)
 
 
