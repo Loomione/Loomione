@@ -40,19 +40,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      10 hrs 41 mins      █████████████████████░░░░   84.39 % 
-Python                   1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  12 hrs 40 mins      █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    12 hrs 40 mins      █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 19/12/2023 00:44:54 UTC
+ Last Updated on 20/12/2023 00:36:56 UTC
 <!--END_SECTION:waka-->
 -------
 
