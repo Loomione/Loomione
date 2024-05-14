@@ -9,7 +9,7 @@
     <br />
     "Embrace the challenge, code your dreams, and commit to excellence"
     <br> -->
-                  <br> || Can code in c++, python, golang || <br>
+                  <br> || code in c++, python, golang || <br>
                              🌼♥️Welcome♥️🥰
   </samp>
 </p> 
