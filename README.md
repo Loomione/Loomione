@@ -3,12 +3,12 @@
 <p align="center">
   <br />
   <samp>
-    I'm Loomione :wave:
+<!--     I'm Loomione :wave:
     <br />
     I love delving deep into the intricacies of computer systems to understand how they work and how to make them work better
     <br />
     "Embrace the challenge, code your dreams, and commit to excellence"
-    <br>
+    <br> -->
                   <br> || Can code in c++, python, golang || <br>
                              🌼♥️Welcome♥️🥰
   </samp>
