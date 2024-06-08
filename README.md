@@ -40,17 +40,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      6 mins              ████████████████████████░   96.86 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  6 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  6 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/06/2024 00:50:48 UTC
+ Last Updated on 08/06/2024 00:47:47 UTC
 <!--END_SECTION:waka-->
 -------
 
