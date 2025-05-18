@@ -40,17 +40,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TeX                      49 mins             ██████████████████████░░░   87.06 % 
+Markdown                 7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  57 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  57 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/05/2025 01:06:48 UTC
+ Last Updated on 18/05/2025 01:12:13 UTC
 <!--END_SECTION:waka-->
 -------
 
