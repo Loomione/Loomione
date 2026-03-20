@@ -40,19 +40,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 0 secs              █████████████░░░░░░░░░░░░   50.02 % 
-TypeScript               0 secs              ██████░░░░░░░░░░░░░░░░░░░   25.11 % 
-HTML                     0 secs              ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
+Markdown                 40 mins             ██████████████░░░░░░░░░░░   56.18 % 
+C++                      30 mins             ███████████░░░░░░░░░░░░░░   42.86 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Trae                     0 secs              █████████████████████████   100.00 % 
+Trae                     1 hr 11 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+Windows                  1 hr 11 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/03/2026 01:46:22 UTC
+ Last Updated on 20/03/2026 01:28:43 UTC
 <!--END_SECTION:waka-->
 -------
 
