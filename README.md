@@ -40,21 +40,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      3 hrs 54 mins       ███████████░░░░░░░░░░░░░░   44.26 % 
-Markdown                 3 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   37.02 % 
-Python                   1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-PowerShell               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+C++                      3 hrs 23 mins       ███████████░░░░░░░░░░░░░░   44.48 % 
+Markdown                 2 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   34.03 % 
+Python                   1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+PowerShell               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 
 🔥 Editors: 
-Trae                     8 hrs 50 mins       █████████████████████████   100.00 % 
+Trae                     7 hrs 38 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  8 hrs 50 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/03/2026 01:50:39 UTC
+ Last Updated on 27/03/2026 01:50:58 UTC
 <!--END_SECTION:waka-->
 -------
 
