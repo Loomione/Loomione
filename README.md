@@ -40,21 +40,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   53 mins             ██████████░░░░░░░░░░░░░░░   41.32 % 
-C++                      52 mins             ██████████░░░░░░░░░░░░░░░   40.60 % 
-PowerShell               15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
-Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Trae                     2 hrs 10 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 10 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 28/03/2026 01:42:57 UTC
+ Last Updated on 29/03/2026 01:53:06 UTC
 <!--END_SECTION:waka-->
 -------
 
