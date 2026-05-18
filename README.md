@@ -24,38 +24,8 @@
 -------
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                114 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-🌆 Daytime                424 commits         ████████░░░░░░░░░░░░░░░░░   31.78 % 
-🌃 Evening                610 commits         ███████████░░░░░░░░░░░░░░   45.73 % 
-🌙 Night                  186 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Markdown                 1 hr 18 mins        ██████████████░░░░░░░░░░░   54.04 % 
-Other                    52 mins             █████████░░░░░░░░░░░░░░░░   35.81 % 
-Python                   14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-
-🔥 Editors: 
-VS Code                  2 hrs 14 mins       ███████████████████████░░   92.31 % 
-Unknown Editor           11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-
-💻 Operating System: 
-Windows                  2 hrs 26 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 17/05/2026 02:44:48 UTC
+ Last Updated on 18/05/2026 02:55:44 UTC
 <!--END_SECTION:waka-->
 -------
 
