@@ -40,19 +40,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   15 mins             ██████████████████░░░░░░░   70.77 % 
-Markdown                 5 mins              ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
-TOML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+Python                   1 hr 16 mins        ████████████░░░░░░░░░░░░░   49.52 % 
+HTML                     22 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Markdown                 18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+Git Config               16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+VBScript                 16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
 
 🔥 Editors: 
-VS Code                  22 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 33 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  22 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/07/2026 02:38:03 UTC
+ Last Updated on 10/07/2026 02:38:37 UTC
 <!--END_SECTION:waka-->
 -------
 
