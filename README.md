@@ -40,23 +40,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   34.56 % 
-JSON                     3 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
-C++                      2 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-Markdown                 1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-HTML                     59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+C++                      2 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   28.06 % 
+Python                   1 hr 35 mins        █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
+JSON                     1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+HTML                     59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+YAML                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 9 mins       █████████████████████████   99.19 % 
-Exec Wakatime            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-Codex CLI                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+VS Code                  8 hrs 3 mins        █████████████████████████   99.69 % 
+Codex CLI                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 💻 Operating System: 
-Windows                  15 hrs 16 mins      █████████████████████████   100.00 % 
+Windows                  8 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/07/2026 02:19:00 UTC
+ Last Updated on 20/07/2026 03:34:58 UTC
 <!--END_SECTION:waka-->
 -------
 
