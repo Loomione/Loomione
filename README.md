@@ -40,22 +40,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      2 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   28.06 % 
-Python                   1 hr 35 mins        █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
-JSON                     1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-HTML                     59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-YAML                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+INI                      14 mins             █████████░░░░░░░░░░░░░░░░   35.98 % 
+Markdown                 13 mins             ████████░░░░░░░░░░░░░░░░░   33.59 % 
+C#                       12 mins             ████████░░░░░░░░░░░░░░░░░   30.30 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 3 mins        █████████████████████████   99.69 % 
-Codex CLI                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+VS Code                  41 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  8 hrs 4 mins        █████████████████████████   100.00 % 
+Windows                  40 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/07/2026 03:34:58 UTC
+ Last Updated on 21/07/2026 02:18:46 UTC
 <!--END_SECTION:waka-->
 -------
 
