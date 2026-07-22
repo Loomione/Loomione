@@ -40,21 +40,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-INI                      14 mins             █████████░░░░░░░░░░░░░░░░   35.98 % 
-Markdown                 13 mins             ████████░░░░░░░░░░░░░░░░░   33.59 % 
-C#                       12 mins             ████████░░░░░░░░░░░░░░░░░   30.30 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Markdown                 4 hrs 14 mins       ████████████░░░░░░░░░░░░░   48.93 % 
+Git Config               2 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
+Objective-C              48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+C++                      36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+Other                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
 
 🔥 Editors: 
-VS Code                  41 mins             █████████████████████████   100.00 % 
+VS Code                  8 hrs 41 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  40 mins             █████████████████████████   100.00 % 
+Windows                  8 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/07/2026 02:18:46 UTC
+ Last Updated on 22/07/2026 02:17:23 UTC
 <!--END_SECTION:waka-->
 -------
 
